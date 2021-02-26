@@ -7,11 +7,11 @@ Anyway, if you are using this for something that's really required, the code sho
 However, they may be UPs and DOWNs to using this.
 - First of, these so called "gateway IPs" sometimes have the same IP as a random device on a network. So for instance if a device with that IP may exist. It may give inaccurate results, but I am pretty sure that can be fixed by a couple tweaks here and there. 🔨
 - Second is that, there is a timeout and that is the backbone of the logic used in the code to an extent for performance. Increasing the timeout or disabling it completely may give wayyy beter results. So if time isn't an issue. You guys can go and change that.. 🏃‍♂️
-- The last but not least.. I haven't really coded in JavaScript (only started because of the DNS Rebinding project), so I couldn't really get the function to return a variable, since I am too lazy to read through tons of guides, but I will make this better once I start learning JavaScript.
+- The last but not least.. I haven't really coded in JavaScript (only started because of the DNS Rebinding project), so I couldn't really get the function to return a variable, since I am too lazy to read through tons of guides, but I will make this better once I start learning JavaScript. 🐱‍💻
 
 The UPs are that this works... 😁
 
-Coding in JavaScript is great but it can be a pain in the *a-* because of all the restrictions and the syntax.. gugh. I had to do some freaking 30 different ways of the same logic to get this working. 👷‍
+Coding in JavaScript is great but it can be a pain in the *a-* because of all the restrictions and the syntax.. gugh. I had to do some freaking 30 different ways of the same logic to get this working. 👷‍♂️
 
 Have a great day/night... This is my first project and since I am still a teenager (16), I have been planning on making more projects or uploading the ones I already made.
 Big things coming soon.. trust me 😉
