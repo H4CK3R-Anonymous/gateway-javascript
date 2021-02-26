@@ -11,6 +11,9 @@ However, they may be UPs and DOWNs to using this.
 
 The UPs are that this works... 😁
 
+SOOO... WHAT's the LOGIC?
+Well... its simple. If an IP responds in a required time it's the Gateway IP... if it doesn't it's not.
+
 Coding in JavaScript is great but it can be a pain in the *a-* because of all the restrictions and the syntax.. gugh. I had to do some freaking 30 different ways of the same logic to get this working.
 
 Have a great day/night... This is my first project and since I am still a teenager (16), I have been planning on making more projects or uploading the ones I already made.
