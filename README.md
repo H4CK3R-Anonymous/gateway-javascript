@@ -1,7 +1,7 @@
 # Gateway-JavaScript 💻 
 Here's a perfectly broken 💔 solution to get someone's gateway IP with JavaScript
 
-I have recently tried making a project in JavaScript and it seems like they don't really have a way, to give the Gateway IP of a client. Neither do I think they will, since it can be a security vulnerbility. *blink* *blink* (Joke's aside I am not really responsible for what y'all do!)
+I have recently tried making a project in JavaScript and it seems like they don't really have a way, to give the Gateway IP of a client. Neither do I think they will, since it can be a security vulnerbility. *blink* *blink*
 Anyway, if you are using this for something that's really required, the code should be up there 👆
 However, they may be UPs and DOWNs to using this.
 - First of, these so called "gateway IPs" sometimes have the same IP as a random device on a network. So for instance if a device with that IP may exist. It may give inaccurate results, but I am pretty sure that can be fixed by a couple tweaks here and there. 🔨
@@ -12,8 +12,3 @@ The UPs are that this works... 😁
 
 WHAT's the LOGIC?
 Well... its simple. If an IP responds in a required time it's the Gateway IP... if it doesn't it's not.
-
-Coding in JavaScript is great but it can be a pain in the *a-* because of all the restrictions and the syntax.. gugh. I had to do some freaking 30 different ways of the same logic to get this working.
-
-This is my first project and since I am still a teenager (16), I might be a bit busy with other work but I will making more projects or uploading the ones I already made.
-Big things coming soon.. trust me 😉
